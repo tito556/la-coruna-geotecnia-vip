@@ -1,62 +1,45 @@
-# La Coruna
+# Geotecnia — La Coruna
 
-> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+> Geotechnical engineering services in La Coruna, España.
 
 ## Services
 - [Aislacion Sismica](https://la-coruna.geotecnia.vip/aislacion-sismica/)
 - [Anclajes](https://la-coruna.geotecnia.vip/anclajes/)
-- [Asentamiento Diferencial](https://la-coruna.geotecnia.vip/asentamiento-diferencial/)
-- [Asentamientos](https://la-coruna.geotecnia.vip/asentamientos/)
 - [Calicatas Exploratorias](https://la-coruna.geotecnia.vip/calicatas-exploratorias/)
-- [Capacidad De Carga](https://la-coruna.geotecnia.vip/capacidad-de-carga/)
 - [Cbr Vial](https://la-coruna.geotecnia.vip/cbr-vial/)
 - [Cimentaciones](https://la-coruna.geotecnia.vip/cimentaciones/)
-- [Cimentaciones Sismicas](https://la-coruna.geotecnia.vip/cimentaciones-sismicas/)
-- [Cimentaciones Superficiales](https://la-coruna.geotecnia.vip/cimentaciones-superficiales/)
-- [Clasificacion Suelos](https://la-coruna.geotecnia.vip/clasificacion-suelos/)
-- [Compactacion Dinamica](https://la-coruna.geotecnia.vip/compactacion-dinamica/)
-- [Consolidacion](https://la-coruna.geotecnia.vip/consolidacion/)
-- [Densidad Cono Arena](https://la-coruna.geotecnia.vip/densidad-cono-arena/)
-- [Deslizamientos](https://la-coruna.geotecnia.vip/deslizamientos/)
-- [Dilatometro](https://la-coruna.geotecnia.vip/dilatometro/)
-- [Drenaje Geotecnico](https://la-coruna.geotecnia.vip/drenaje-geotecnico/)
-- [Drenaje Vial](https://la-coruna.geotecnia.vip/drenaje-vial/)
+- [Columnas Grava](https://la-coruna.geotecnia.vip/columnas-grava/)
 - [Ensayo Cpt](https://la-coruna.geotecnia.vip/ensayo-cpt/)
-- [Ensayo Spt](https://la-coruna.geotecnia.vip/ensayo-spt/)
-- [Ensayo Triaxial](https://la-coruna.geotecnia.vip/ensayo-triaxial/)
-- [Ensayos In Situ](https://la-coruna.geotecnia.vip/ensayos-in-situ/)
 - [Estabilidad Taludes](https://la-coruna.geotecnia.vip/estabilidad-taludes/)
-- [Estabilizacion Cal Cemento](https://la-coruna.geotecnia.vip/estabilizacion-cal-cemento/)
-- [Estabilizacion Carreteras](https://la-coruna.geotecnia.vip/estabilizacion-carreteras/)
-- [Estabilizacion Taludes](https://la-coruna.geotecnia.vip/estabilizacion-taludes/)
-- [Estudio Mecanica Suelos](https://la-coruna.geotecnia.vip/estudio-mecanica-suelos/)
-- [Evaluacion Pavimentos](https://la-coruna.geotecnia.vip/evaluacion-pavimentos/)
-- [Excavaciones Subterraneas](https://la-coruna.geotecnia.vip/excavaciones-subterraneas/)
+- [Excavaciones Profundas](https://la-coruna.geotecnia.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://la-coruna.geotecnia.vip/excavaciones-subterraneo/)
 - [Exploracion](https://la-coruna.geotecnia.vip/exploracion/)
-- [Geoceldas](https://la-coruna.geotecnia.vip/geoceldas/)
 - [Geofisica](https://la-coruna.geotecnia.vip/geofisica/)
-- [Geomembranas](https://la-coruna.geotecnia.vip/geomembranas/)
-- [Georradar Gpr](https://la-coruna.geotecnia.vip/georradar-gpr/)
 - [Geotecnia Vial](https://la-coruna.geotecnia.vip/geotecnia-vial/)
-- [Geotextiles](https://la-coruna.geotecnia.vip/geotextiles/)
-- [Granulometria](https://la-coruna.geotecnia.vip/granulometria/)
 - [Grouting](https://la-coruna.geotecnia.vip/grouting/)
-- [Instrumentacion Geotecnica](https://la-coruna.geotecnia.vip/instrumentacion-geotecnica/)
-- [Jet Grouting](https://la-coruna.geotecnia.vip/jet-grouting/)
-- [Laboratorio](https://la-coruna.geotecnia.vip/laboratorio/)
+- [Laboratorio In Situ](https://la-coruna.geotecnia.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://la-coruna.geotecnia.vip/laboratorio-lab/)
 - [Licuefaccion](https://la-coruna.geotecnia.vip/licuefaccion/)
-- [Losa De Cimentacion](https://la-coruna.geotecnia.vip/losa-de-cimentacion/)
+- [Limites Atterberg](https://la-coruna.geotecnia.vip/limites-atterberg/)
 - [Masw Vs30](https://la-coruna.geotecnia.vip/masw-vs30/)
 - [Mejoramiento](https://la-coruna.geotecnia.vip/mejoramiento/)
-- [Micropilotes](https://la-coruna.geotecnia.vip/micropilotes/)
-- [Microtremores Hvsr](https://la-coruna.geotecnia.vip/microtremores-hvsr/)
+- [Microzonificacion Sismica](https://la-coruna.geotecnia.vip/microzonificacion-sismica/)
 - [Monitoreo Excavaciones](https://la-coruna.geotecnia.vip/monitoreo-excavaciones/)
-- [Muestreo Inalterado](https://la-coruna.geotecnia.vip/muestreo-inalterado/)
 - [Muros Contencion](https://la-coruna.geotecnia.vip/muros-contencion/)
+- [Pavimento Rigido](https://la-coruna.geotecnia.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://la-coruna.geotecnia.vip/permeabilidad-campo/)
+- [Pilotes](https://la-coruna.geotecnia.vip/pilotes/)
+- [Placa De Carga](https://la-coruna.geotecnia.vip/placa-de-carga/)
+- [Resistividad Electrica Sev](https://la-coruna.geotecnia.vip/resistividad-electrica-sev/)
+- [Sismica](https://la-coruna.geotecnia.vip/sismica/)
+- [Sondaje Spt](https://la-coruna.geotecnia.vip/sondaje-spt/)
+- [Taludes](https://la-coruna.geotecnia.vip/taludes/)
+- [Tomografia Sismica](https://la-coruna.geotecnia.vip/tomografia-sismica/)
+- [Vibrocompactacion](https://la-coruna.geotecnia.vip/vibrocompactacion/)
 
 ## Contact
 - Website: https://la-coruna.geotecnia.vip/
 
 ## About
-This page provides information about geotechnical engineering services available in Chile.
-The company complies with local and international standards including ASTM, ISO and country-specific norms.
+This site provides geotechnical engineering services in La Coruna, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).

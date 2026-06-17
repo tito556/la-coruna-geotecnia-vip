@@ -1,9 +1,9 @@
 {
-  "name": "La Coruna",
-  "short_name": "La Coruna",
+  "name": "Geotecnia",
+  "short_name": "Geotecnia",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#7C2D12",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "es",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Servicios geotécnicos profesionales en La Coruna, Spain. Estudios de suelo, ensayos y consultoría técnica.",
-  "id": "/la-coruna-5941"
+  ]
 }
